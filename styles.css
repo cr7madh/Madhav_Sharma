@@ -16,6 +16,7 @@ h1, h2, h3 {
     text-align: center;
     margin-bottom: 20px;
     color: #cfff04; /* Updated neon lime-yellow for headings */
+    font-family: sans-serif; 
 }
 
 p {
