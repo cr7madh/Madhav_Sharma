@@ -6,7 +6,7 @@
 }
 
 body {
-    font-family: 'Arial', sans-serif;
+    font-family: Monospace;
     background-color: #000; /* Black background */
     color: #cfff04; /* Updated neon lime-yellow text */
     line-height: 1.6;
